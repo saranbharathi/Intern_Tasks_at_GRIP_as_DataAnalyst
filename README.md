@@ -1,9 +1,9 @@
 # Intern_Tasks_at_GRIP_as_DataAnalyst
 Tasks given in internship(GRIP) at The Sparks Foundation
 
-##### Tasks and Description :
+### Tasks and Description :
 
-###### Task-1 : Prediction using Supervised ML
+#### Task-1 : Prediction using Supervised ML
 (Level - Beginner)
 
           ● Predict the percentage of an student based on the no. of study hours.
@@ -12,7 +12,7 @@ Tasks given in internship(GRIP) at The Sparks Foundation
           ● Data can be found at http://bit.ly/w-data
           ● What will be predicted score if a student studies for 9.25 hrs/ day? 
 
-###### Task - 6 : Prediction using Decision Tree Algorithm
+#### Task - 6 : Prediction using Decision Tree Algorithm
 (Level - Intermediate)
 
           ● Create the Decision Tree classifier and visualize it graphically.
